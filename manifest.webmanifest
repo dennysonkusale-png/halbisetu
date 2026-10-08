@@ -1,0 +1,26 @@
+{
+  "name": "HalbiSetu — Halbi Multilingual Dictionary",
+  "short_name": "HalbiSetu",
+  "description": "Community-editable dictionary for the Halbi language: Halbi, Hindi, Marathi, Sanskrit and English, with voice.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1220",
+  "theme_color": "#0f1220",
+  "lang": "hi",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

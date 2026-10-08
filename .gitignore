@@ -1,0 +1,28 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Node (for the future APK / Capacitor build)
+node_modules/
+dist/
+build/
+*.log
+
+# Python (data/OCR scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Capacitor / Android build artefacts
+android/
+ios/
+.gradle/
+*.apk
+*.aab
+*.keystore
+
+# Local scratch
+tmp/
+*.tmp
